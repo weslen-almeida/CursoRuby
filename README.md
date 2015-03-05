@@ -13,13 +13,17 @@ git commit -m "mensagem identificação" ## "salva os arquivos no repositorio
 git diff ## "mostra o que alterou e qual arquivo"
 git log ## "historico de todos os commits"
 
-######COMANDOS DE RECEBIMENTO E ENVIO######
+######COMANDOS DE RECEBIMENTO ######
 git clone endereco@github.com:...  ## "clona a pasta raiz e arquivos para o pc"
 git pull endereco@git...  ## "Copia os arquivos sem colocar a pasta raiz no pc"
 
 git remote add origin endereco@git...  ## acessa o repositorio remoto"
+
+######ENVIANDO ARQUIVOS PARA GITHUB########
 git origin master  ## "Envia os arquivos para o repositorio para o
 brench master"
+
+
 
 
 #########IGNORAR ARQUIVOS NO GIT ###########
