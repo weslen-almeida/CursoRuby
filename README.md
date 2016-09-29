@@ -1,6 +1,13 @@
 # CursoRuby
 Curso de Ruby do livro Ruby - Aprenda a programar na linguagem mais divertida - Casa do Codigo
 
+####COMANDOS CONFIGURAÇÃO#######
+ssh-keygen -t rsa -C "email@exemplo.com" ##geranco chave
+git config --global user.name "YOUR NAME"  ## nome
+git config --global user.email "YOUR EMAIL ADDRESS"  ## email
+
+
+
 #####COMANDOS BASICOS DO GIT#####
 
 git init ## "inicia o git"
